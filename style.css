@@ -1,0 +1,161 @@
+
+body{
+    background-color: darkgrey;
+}
+
+h1{
+    background-color:wheat ;
+    border-radius: 15px;
+    text-indent: 1em;
+    margin: 0 auto;
+    width: 70%;
+    height: 45px;
+}
+
+.white{
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 65%;
+}
+
+.one{
+    background-color:  rgb(234, 147, 167);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.two{
+    background-color: rgb(232, 127, 151);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.three{
+    background-color: rgb(228, 106, 134);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.four{
+    background-color: rgb(232, 94, 126);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.five{
+    background-color:  rgb(234, 84, 119);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.six{
+    background-color:  rgb(231, 65, 104);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.seven{
+    background-color:  rgb(235, 51, 94);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.eight{
+    background-color: rgb(237, 33, 81);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.nine{
+    background-color: rgb(235, 17, 68);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+/* Neutrol */
+
+.white00{
+    background-color: white;
+    margin: 0 auto;
+    width: 65%;
+}
+
+.zero{
+    background-color: rgb(55, 219, 55);
+    margin:0 auto;
+    width: 100%;
+}
+
+
+
+/* Cold */
+
+.white2{
+    background-color: white;
+    margin: 0 auto;
+    width: 65%;
+}
+
+.one1{
+    background-color: rgb(144, 202, 230);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.two2{
+    background-color:  rgb(124, 194, 227);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.three3{
+    background-color:  rgb(110, 197, 238);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.four4{
+    background-color: rgb(93, 193, 239);
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.five5{
+    background-color: rgb(77, 185, 236);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.six6{
+    background-color: rgb(60, 180, 236);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.seven7{
+    background-color:  rgb(44, 177, 239);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.eight8{
+    background-color: rgb(23, 168, 235);
+    margin: 0 auto;
+    width: 100%;
+}
+.nine9{
+    background-color: rgb(3, 154, 224);
+    margin: 0 auto;
+    width: 100%;
+  
+}
+ 
